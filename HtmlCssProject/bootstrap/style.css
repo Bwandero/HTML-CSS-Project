@@ -1,0 +1,19 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	color: #747704;
+	font-weight: 300;
+	max-width: 500;
+	margin: auto;
+}
+
+.text-muted{
+	color:#8CBBBB;
+
+}
+.text-thin{
+	font-weight: 100;
+}
+.borderingcenter {
+	border: 10 solid transparent;
+	padding: 15;
+}
